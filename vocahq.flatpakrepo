@@ -1,0 +1,9 @@
+[Flatpak Repo]
+Title=VocaHQ
+Url=https://vocahq.github.io/vocalinux-flatpak/repo
+Homepage=https://vocalinux.com
+Comment=Official Vocalinux Flatpak remote
+Description=Self-hosted Vocalinux Flatpak repository
+Icon=https://vocalinux.com/icon-512x512.png
+DefaultBranch=stable
+GPGKey=mDMEatFM2RYJKwYBBAHaRw8BAQdAtBbzo298eabNDeXD10XTJ+L5r2R3xn4MBmbpk2GHGAK0JlZvY2FsaW51eCBGbGF0cGFrIDxmbGF0cGFrQHZvY2FocS5jb20+iJAEExYIADgWIQSRlkUs/Q2jbVS/60B2yg+7M/6pewUCatFM2QIbAwULCQgHAgYVCgkICwIEFgIDAQIeAQIXgAAKCRB2yg+7M/6pe1BVAP9fVjTC8NYP6ioH/ZGb8WFSIX+srdl1V5ObZrSVLLJ0HQD/VBjjTap2gb/JWc1zMIPNt8c49eFEDB1ne2R/A9iUwQ8=
